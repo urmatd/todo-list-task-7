@@ -1,0 +1,76 @@
+.wrapper {
+  width: 520px;
+  margin: 20px auto;
+  padding-bottom: 20px;
+  padding-top: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+.form {
+  width: 90%;
+  background-color: rgb(42, 154, 218);
+  margin: auto;
+  padding-top: 40px;
+  border-radius: 15px;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+}
+
+.todo {
+  display: flex;
+  width: 90%;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding-bottom: 50px;
+  border-radius: 10px;
+}
+
+#text {
+  width: 70%;
+  height: 25px;
+}
+
+.add {
+  width: 25%;
+  height: 30.5px;
+  font-size: medium;
+  background: #d9d9d9;
+  border: #888;
+  border-radius: 5px;
+}
+
+.todo-list {
+  background: rgb(233, 223, 223);
+  margin: 0 auto;
+  width: 90%;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  height: 30px;
+}
+
+.txt {
+  margin: 5px auto;
+  width: 70%;
+  color: aliceblue;
+  font-size: medium;
+}
+
+.delete {
+  width: 100%;
+  background-color: rgb(42, 154, 218);
+  border-radius: 15px;
+}
+
+#listBox {
+  width: 470px;
+  height: 300px;
+  border-radius: 15px;
+}
