@@ -1,3 +1,3 @@
 # todo-list-task-7
 
-https://urmatd.github.io/todo-list-task-7/index.html/
+https://github.com/urmatd/todo-list-task-7/index.html/
